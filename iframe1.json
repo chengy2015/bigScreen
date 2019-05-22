@@ -1,0 +1,15 @@
+﻿  [{
+    "id": 0,
+    "serieName": "大屏一",
+    "url": "https://www.baidu.com"
+  },
+  {
+    "id": 1,
+    "serieName": "大屏二",
+    "url": "https://map.baidu.com"
+  },
+  {
+    "id": 2,
+    "serieName": "大屏三",
+    "url": "https://datav.aliyun.com/share/288e61eac5bc7e23d79489522bb5a73d "
+  }]
